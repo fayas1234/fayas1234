@@ -14,9 +14,8 @@ Skills: JAVA / PYTHON / FIGMA / C / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fayas1234&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fayas1234)  
-
 ![GitHub metrics](https://metrics.lecoq.io/fayas1234)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fayas1234)  
 
+![Profile views](https://gpvc.arturio.dev/fayas1234)  
