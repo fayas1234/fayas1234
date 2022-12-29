@@ -2,9 +2,8 @@
 #### Loves Java
 Interested in learning new things and competitive programming
 
-Skills: JAVA / PYTHON / FIGMA / SHELL / C / HTML / CSS 
+Skills: JAVA / PYTHON / FIGMA / SQL / SHELL / C / HTML
 
-- 🔭 I’m currently working on learning Web Development 
 - 🌱 I’m currently learning Web Development 
 
 
